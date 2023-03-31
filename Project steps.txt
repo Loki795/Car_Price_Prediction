@@ -1,0 +1,5 @@
+create anaconda environment
+>on conda cmd
+conda create -n carprediction python=3.6
+
+carprediction is the project name
